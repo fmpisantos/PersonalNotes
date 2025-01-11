@@ -1,7 +1,7 @@
 # TODOS:
 
 ## Open:
-- [ ] [# Barbers](/Users/fmpi.santos/Projects/Notes/PersonalNotes/todos/BarbersTODOS.md)
-- [ ] [# Dynamic Pricing](/Users/fmpi.santos/Projects/Notes/PersonalNotes/todos/DynamicPriceTODO.md)
+- [ ] [# Dynamic Pricing](./todos/DynamicPriceTODO.md)
+- [ ] [# Barbers](./todos/BarbersTODOS.md)
 
 ## Closed:
